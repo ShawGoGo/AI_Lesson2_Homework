@@ -1,7 +1,7 @@
-# AI_Lesson2_Homework1 
-# Input a year and decide whether the year is a leap year or not
-year_no = int(input('Please input the year: '))
-if year_no % 4 == 0:
-   print('Year ', year_no, ' is a leap year')
-else:
-    print('Year ', year_no, ' is not a leap year')
+AI_Lesson2_Homework
+作业1：输入年份，判断该年份是否为闰年
+作业2：一周记账功能 
+作业3：ATM机
+作业4：自然语言处理预处理
+
+
